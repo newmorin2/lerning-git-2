@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git practice</title>
+</head>
+<body>
+    <h2>Hello, I am practicing to use Git and GitHub</h2>
+    <h3>What is Git?</h3>
+    <p>Git is a version control system that allows you to track and manage changes made
+        to a codebase. There are different types of vcs such as:
+    </p>
+    <div>
+        <ul>
+            <li>Mercurial</li>
+            <li>Git</li>
+            <li>Perforce</li>
+            <li>Subversion</li>
+        </ul>
+    </div>
+</body>
+</html>
